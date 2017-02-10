@@ -1,1 +1,13 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+I don't have anything usefull to say??
+
+Still doesn't work
+=======
 I think that Raymond is stupid
+>>>>>>> refs/remotes/origin/master
+=======
+I have a pen
+
+what do u have??
+>>>>>>> refs/remotes/origin/My-branch
