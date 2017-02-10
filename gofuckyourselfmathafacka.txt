@@ -18,8 +18,16 @@ what do u have??
 
 I have an apple
 
+<<<<<<< HEAD
 Apple pen
 >>>>>>> My-branch
 =======
 >>>>>>> refs/remotes/origin/My-branch
 >>>>>>> 4394eb4b3b14d4a337e2abcdd7e244761c53a202
+=======
+<<<<<<< HEAD
+anaaa......
+=======
+Apple pen
+>>>>>>> origin/My-branch
+>>>>>>> My-branch
