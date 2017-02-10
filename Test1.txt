@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-I don't want to work with you in the same branch anymore!
-=======
 If you are here, you are mad :)
 
 new line added
->>>>>>> refs/remotes/origin/master
