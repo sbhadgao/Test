@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 I think that Raymond is stupid
+=======
+I have a pen
+
+what do u have??
+
+I have an apple
+
+Apple pen
+>>>>>>> My-branch
