@@ -1,0 +1,33 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+I think that Raymond is stupid
+=======
+<<<<<<< HEAD
+I don't have anything usefull to say??
+
+Still doesn't work
+=======
+I think that Raymond is stupid
+>>>>>>> refs/remotes/origin/master
+>>>>>>> 4394eb4b3b14d4a337e2abcdd7e244761c53a202
+=======
+I have a pen
+
+what do u have??
+<<<<<<< HEAD
+
+I have an apple
+
+<<<<<<< HEAD
+Apple pen
+>>>>>>> My-branch
+=======
+>>>>>>> refs/remotes/origin/My-branch
+>>>>>>> 4394eb4b3b14d4a337e2abcdd7e244761c53a202
+=======
+<<<<<<< HEAD
+anaaa......
+=======
+Apple pen
+>>>>>>> origin/My-branch
+>>>>>>> My-branch
