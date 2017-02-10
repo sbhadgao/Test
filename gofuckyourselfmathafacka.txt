@@ -4,4 +4,8 @@ what do u have??
 
 I have an apple
 
+<<<<<<< HEAD
 anaaa......
+=======
+Apple pen
+>>>>>>> origin/My-branch
